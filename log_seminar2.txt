@@ -1,0 +1,4 @@
+янв. 22, 2023 10:55:41 PM Seminar_2.task_01 main
+INFO: java.util.InputMismatchException: Value out of range. Value:"200" Radix:10
+янв. 22, 2023 10:55:52 PM Seminar_2.task_01 main
+INFO: java.util.InputMismatchException: Value out of range. Value:"200" Radix:10
