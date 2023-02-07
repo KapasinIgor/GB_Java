@@ -13,7 +13,7 @@ import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map.Entry;
 
-public class task_01 {
+public class Task_01 {
 
     public static void main(final String[] args) {
         List<String> phoneBookRaw = new ArrayList<>(Arrays.asList(

@@ -5,7 +5,7 @@ package Seminar_1;
 
 import java.util.Arrays;
 
-public class task_02 {
+public class Task_02 {
     public static void main(String[] args) {
         int[] arr = createArray();
         printArray(arr);

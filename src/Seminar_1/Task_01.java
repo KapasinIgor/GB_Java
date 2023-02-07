@@ -4,7 +4,7 @@ package Seminar_1;
 // Заполните массив случайным числами и выведите максимальное, минимальное и среднее значение.
 // Для генерации случайного числа используйте метод Math.random(), который возвращает значение в промежутке [0, 300].
 
-public class task_01 {
+public class Task_01 {
     public static void main(String[] args) {
         int[] array = new int[10];
         for (int i = 0; i < array.length; i++) { array[i] = ((int) (Math.random() * 300)); }

@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Collections;
 
-public class task_01 {
+public class Task_01 {
     // Пусть дан произвольный список целых чисел
     public static void main(String[] args) {
         ArrayList<Integer> nums = new ArrayList<>(10);

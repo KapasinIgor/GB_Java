@@ -8,7 +8,7 @@ package Seminar_2;
 // 4) читает сохраненный файл и выводит содержимое в логгер
 // 5) удаляет сохраненный файл
 
-public class task_02 {
+public class Task_02 {
     public static void main(String[] args) {
         String fileUrl = "https://raw.githubusercontent.com/aksodar/JSeminar_2/master/src/main/resources/example.txt";
 

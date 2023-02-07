@@ -15,7 +15,7 @@ import java.util.logging.FileHandler;
 import java.util.logging.Logger;
 import java.util.logging.SimpleFormatter;
 
-public class task_01 {
+public class Task_01 {
     public static void main(String[] args) throws IOException {
         try {
             Scanner in = new Scanner(System.in);
@@ -32,7 +32,7 @@ public class task_01 {
             writer.flush();
 
         } catch (Exception e) {
-            Logger logger = Logger.getLogger(task_01.class.getName());
+            Logger logger = Logger.getLogger(Task_01.class.getName());
             FileHandler fh = new FileHandler("log_seminar2.txt", true);
             logger.addHandler(fh);
 
